@@ -25,7 +25,7 @@ Outside of this repo, you can start a new project with this template using [C3](
 npm create cloudflare@latest -- --template=cloudflare/templates/esenyurt-korsan-taksi
 ```
 
-A live public deployment of this template is available at [https://esenyurt-korsan-taksi.templates.workers.dev](https://esenyurt-korsan-taksi.templates.workers.dev)
+A live public deployment of this template is available at [https://istanbulda-korsan-taksi-kullanimi.pages.dev/](https://istanbulda-korsan-taksi-kullanimi.pages.dev/)
 
 ## 🚀 Project Structure
 
